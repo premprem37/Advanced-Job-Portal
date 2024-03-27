@@ -1,0 +1,10 @@
+Search Algorithm:
+
+ Hash Tables for efficient retrieval of job listings based on criteria such as job title, location, or category.
+
+Recommendation Algorithm:
+
+
+Sorting Algorithm:
+
+Sorting algorithms like Quicksort, Mergesort, or Heapsort can be employed for sorting job listings based on relevance, date posted, or other criteria.
